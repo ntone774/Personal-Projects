@@ -1,1 +1,1 @@
-# In this depository I'm storing ll of my personal projects
+# In this depository I'm storing all of my personal projects
