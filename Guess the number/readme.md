@@ -1,1 +1,1 @@
-# This is an program, for guessing number, created with Python
+# This is an program, for guessing a number, created with Python
